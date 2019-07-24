@@ -4,3 +4,4 @@ xixixixixixi filter=lfs diff=lfs merge=lfs -text
 Test/* filter=lfs diff=lfs merge=lfs -text
 Test/testfile filter=lfs diff=lfs merge=lfs -text
 GoogleAppMeasurement filter=lfs diff=lfs merge=lfs -text
+File/* filter=lfs diff=lfs merge=lfs -text
