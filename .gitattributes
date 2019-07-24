@@ -1,3 +1,6 @@
 hahahah filter=lfs diff=lfs merge=lfs -text
 Test/trackFile filter=lfs diff=lfs merge=lfs -text
 xixixixixixi filter=lfs diff=lfs merge=lfs -text
+Test/* filter=lfs diff=lfs merge=lfs -text
+Test/testfile filter=lfs diff=lfs merge=lfs -text
+GoogleAppMeasurement filter=lfs diff=lfs merge=lfs -text
